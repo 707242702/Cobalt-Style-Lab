@@ -1,0 +1,7 @@
+{
+  "name": "Cobalt Style Lab",
+  "description": "Generate 56 distinct monochrome style variations of a single character using Gemini 3 Pro Image. Create a professional 8x7 grid poster and download individual high-res variations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
